@@ -21,3 +21,5 @@ Just your typical pull, copy, and create a repo... and run the tests kind of exe
 * Write a function called `areDifferentPeople` that takes in two names (as strings) and returns whether they're different.
 * Write a function called `isMiddleSchoolTeacher` that takes in a role (as a string) and a level (as a _number_) and returns whether they're both a teacher and the level they teach at is `6` to `8` _inclusive_.
 * Write a function called `notAnElementarySchoolAdministrator` that takes in a school level (as a string) and a role (as a string) and returns whether they're NOT an elementary school administrator. (An elementary school teacher is not, nor is a middle school administrator. )
+
+
